@@ -1,0 +1,21 @@
+{
+  "App": {
+    "title": "Wetter"
+  },
+  "WeatherPane": {
+    "celcius": "°C",
+    "fahrenheit": "°F",
+    "metersPerSecond": "m/s",
+    "milesPerHour": "mph",
+    "humidity": "Luftfeuchtigkeit",
+    "wind": "Wind"
+  },
+  "RequestLocationPane": {
+    "requestTitle": "Standort Anfordern",
+    "requestMessage": "Erhalten Sie das Wetter, wo Sie sind, klicken Sie unten, um das Wetter in Ihrer Gegend zu erhalten.",
+    "requestButton": "Wetter Abrufen",
+
+    "blockedTitle": "Standort Blockiert",
+    "blockedMessage": "Die Welt ist groß, und das Wetter ändert sich je nachdem, wo Sie sich befinden. Um das Wetter in Ihrer Gegend zu sehen, erteilen Sie uns bitte die Erlaubnis, auf Ihren Standort zuzugreifen."
+  }
+}

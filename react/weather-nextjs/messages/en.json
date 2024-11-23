@@ -1,0 +1,21 @@
+{
+  "App": {
+    "title": "Weather"
+  },
+  "WeatherPane": {
+    "celcius": "°C",
+    "fahrenheit": "°F",
+    "metersPerSecond": "m/s",
+    "milesPerHour": "mph",
+    "humidity": "Humidity",
+    "wind": "Wind"
+  },
+  "RequestLocationPane": {
+    "requestTitle": "Request Location",
+    "requestMessage": "Get the weather where you are, click below to get the weather in your area.",
+    "requestButton": "Fetch Weather",
+
+    "blockedTitle": "Location Blocked",
+    "blockedMessage": "The world is a big place, and weather changes based on where you are. To see the weather in your area, please grant us permission to access your location."
+  }
+}

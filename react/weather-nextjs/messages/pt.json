@@ -1,0 +1,21 @@
+{
+  "App": {
+    "title": "Clima"
+  },
+  "WeatherPane": {
+    "celcius": "°C",
+    "fahrenheit": "°F",
+    "metersPerSecond": "m/s",
+    "milesPerHour": "mph",
+    "humidity": "Umidade",
+    "wind": "Vento"
+  },
+  "RequestLocationPane": {
+    "requestTitle": "Solicitar Localização",
+    "requestMessage": "Obtenha a previsão do tempo onde você está, clique abaixo para ver o clima na sua região.",
+    "requestButton": "Buscar Clima",
+
+    "blockedTitle": "Localização Bloqueada",
+    "blockedMessage": "O mundo é um lugar grande, e o clima muda de acordo com onde você está. Para ver o clima na sua área, por favor, nos dê permissão para acessar sua localização."
+  }
+}

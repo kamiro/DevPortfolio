@@ -1,0 +1,21 @@
+{
+  "App": {
+    "title": "Meteo"
+  },
+  "WeatherPane": {
+    "celcius": "°C",
+    "fahrenheit": "°F",
+    "metersPerSecond": "m/s",
+    "milesPerHour": "mph",
+    "humidity": "Umidità",
+    "wind": "Vento"
+  },
+  "RequestLocationPane": {
+    "requestTitle": "Richiedi Posizione",
+    "requestMessage": "Ottieni il meteo dove ti trovi, clicca qui sotto per ottenere il meteo nella tua area.",
+    "requestButton": "Ottieni Meteo",
+
+    "blockedTitle": "Posizione Bloccata",
+    "blockedMessage": "Il mondo è un posto grande, e il meteo cambia a seconda di dove ti trovi. Per vedere il meteo nella tua area, ti preghiamo di concederci il permesso di accedere alla tua posizione."
+  }
+}
